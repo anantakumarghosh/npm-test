@@ -1,4 +1,5 @@
 # Logs
+.nvmrc
 logs
 *.log
 npm-debug.log*
